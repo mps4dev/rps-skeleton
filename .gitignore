@@ -1,0 +1,15 @@
+
+# gradle
+**/build/
+
+# intellij idea
+*.iml
+*.ipr
+*.iws
+.idea/
+!.idea/copyright/
+!.idea/scopes/
+!.idea/.name
+!.idea/ant.xml
+!.idea/codeStyleSettings.xml
+!.idea/vcs.xml
